@@ -1,11 +1,11 @@
 {
-    "filename": "zephyrine.js",
+   "filename": "index.js",
     "access": [
        "6285880099709",
        "6282396614638",
-    ],
-    "access bot": [
+   ],
+   "access bot": [
        "6285880099709",
        "6282396614638",
-    ]
+   ]
 }
